@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Температурный сенсор",
+    "lat": 55.751244,
+    "lon": 37.618423,
+    "model": "basic",
+    "status": "on",
+    "children": [
+      {
+        "id": "1-1",
+        "name": "Микро сенсор A",
+        "lat": 55.751244,
+        "lon": 37.618423,
+        "model": "basic",
+        "status": "off"
+      },
+      {
+        "id": "1-2",
+        "name": "Микро сенсор B",
+        "lat": 55.751244,
+        "lon": 37.618423,
+        "model": "basic",
+        "status": "on"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Камера наблюдения",
+    "lat": 55.755826,
+    "lon": 37.6173,
+    "model": "advanced",
+    "status": "off"
+  },
+  {
+    "id": "3",
+    "name": "Датчик дыма",
+    "lat": 55.758,
+    "lon": 37.6205,
+    "model": "basic",
+    "status": "on"
+  },
+  {
+    "id": "4",
+    "name": "Умная розетка",
+    "lat": 55.76,
+    "lon": 37.615,
+    "model": "advanced",
+    "status": "on"
+  },
+  {
+    "id": "5",
+    "name": "Оповещатель тревоги",
+    "lat": 55.748,
+    "lon": 37.61,
+    "model": "special",
+    "status": "off"
+  },
+  {
+    "id": "6",
+    "name": "Датчик CO2",
+    "lat": 55.752,
+    "lon": 37.622,
+    "model": "special",
+    "status": "on"
+  },
+  {
+    "id": "7",
+    "name": "Датчик движения",
+    "lat": 55.7505,
+    "lon": 37.624,
+    "model": "basic",
+    "status": "on",
+    "children": [
+      {
+        "id": "7-1",
+        "name": "Дочерний сенсор",
+        "lat": 55.7505,
+        "lon": 37.624,
+        "model": "basic",
+        "status": "off"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Камера внутреннего наблюдения",
+    "lat": 55.749,
+    "lon": 37.626,
+    "model": "advanced",
+    "status": "off"
+  },
+  {
+    "id": "9",
+    "name": "Сирена",
+    "lat": 55.7475,
+    "lon": 37.619,
+    "model": "special",
+    "status": "on"
+  },
+  {
+    "id": "10",
+    "name": "Инфракрасный датчик",
+    "lat": 55.746,
+    "lon": 37.623,
+    "model": "basic",
+    "status": "off"
+  }
+]
